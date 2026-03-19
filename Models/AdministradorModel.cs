@@ -5,6 +5,6 @@
         public int Adm_Id { get; set; }
         public string? Adm_Nombre { get; set; }
         public string? Adm_Correo { get; set; }
-        public string? Adm_Contraseña {  get; set; }
+        public string? Adm_Contra {  get; set; }
     }
 }
