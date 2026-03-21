@@ -10,6 +10,5 @@
         public string? Sol_CrearContra { get; set; }
         public int Sol_TelefonoEstudiante { get; set; }
         public string? Sol_DireccionEstudiante {  get; set; }
-        public string? Sol_Estatus { get; set; }
     }
 }
